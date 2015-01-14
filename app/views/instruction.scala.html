@@ -1,0 +1,20 @@
+@(url: String, message: String)
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Instruction</title>
+        <link rel="stylesheet" media="screen" href="@routes.Assets.at("stylesheets/main.css")">
+        <link rel="shortcut icon" type="image/png" href="@routes.Assets.at("images/favicon.png")">
+    </head>
+    <body>
+        <p>
+            Great!
+        </p>
+        <p>
+            Please use WebSocket URL: @url
+        </p>
+        <p>
+            Please send to server "@message" string
+        </p>
+    </body>
+</html>
