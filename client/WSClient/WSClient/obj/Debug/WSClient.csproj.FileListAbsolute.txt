@@ -1,0 +1,10 @@
+D:\ws\client\WSClient\WSClient\bin\Debug\WSClient.exe.config
+D:\ws\client\WSClient\WSClient\bin\Debug\WSClient.exe
+D:\ws\client\WSClient\WSClient\bin\Debug\WSClient.pdb
+D:\ws\client\WSClient\WSClient\bin\Debug\WebSocket4Net.dll
+D:\ws\client\WSClient\WSClient\obj\Debug\WSClient.csprojResolveAssemblyReference.cache
+D:\ws\client\WSClient\WSClient\obj\Debug\WSClient.Form1.resources
+D:\ws\client\WSClient\WSClient\obj\Debug\WSClient.Properties.Resources.resources
+D:\ws\client\WSClient\WSClient\obj\Debug\WSClient.csproj.GenerateResource.Cache
+D:\ws\client\WSClient\WSClient\obj\Debug\WSClient.exe
+D:\ws\client\WSClient\WSClient\obj\Debug\WSClient.pdb
